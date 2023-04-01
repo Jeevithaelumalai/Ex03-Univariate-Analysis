@@ -26,7 +26,7 @@ Count the values from the data.
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 # Program:
-
+```
 DEVELOPED BY :JEEVITHA E
 
 REG NO : 212222230054
@@ -51,3 +51,12 @@ sns.boxplot(x='Postal Code', data=df)
 sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
+```
+# OUTPUT
+# DATA
+
+![Screenshot 2023-03-31 204847](https://user-images.githubusercontent.com/118708245/229262517-bab65326-930d-4375-92c3-e84271000da7.png)
+
+# DATA HEAD
+
+
