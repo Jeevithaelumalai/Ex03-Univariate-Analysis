@@ -1,3 +1,4 @@
+![Screenshot 2023-04-01 083744](https://user-images.githubusercontent.com/118708245/229262966-7a5d0b48-f547-4723-abc3-12d6b4ce5a55.png)
 # Ex03-Univariate-Analysis
 # Aim:
 
@@ -58,5 +59,12 @@ sns.histplot(x='Postal Code',data=df)
 ![Screenshot 2023-03-31 204847](https://user-images.githubusercontent.com/118708245/229262517-bab65326-930d-4375-92c3-e84271000da7.png)
 
 # DATA HEAD
+
+![Screenshot 2023-04-01 083744](https://user-images.githubusercontent.com/118708245/229262977-aac51dc5-5ca8-45c2-9c1a-97ecb5812291.png)
+
+# DATA INFORMATION
+
+
+# DATA DESCRIBE
 
 
