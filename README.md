@@ -77,10 +77,13 @@ sns.histplot(x='Postal Code',data=df)
 
 # DATA DATA TYPES
 
-![Screenshot 2023-04-02 155130](https://user-images.githubusercontent.com/118708245/229347225-b2d0e54e-c6cb-42c2-9e27-887d43a5ae48.png)
+![Uploading Screenshot 2023-04-02 155246.png…]()
+
+
 # DATA VALUE COUNT
 
-![Screenshot 2023-04-02 155130](https://user-images.githubusercontent.com/118708245/229347352-86f815ae-9b7d-4341-a340-acd9923699a1.png)
+![Screenshot 2023-04-02 160146](https://user-images.githubusercontent.com/118708245/229347658-67317a2a-213b-4081-8ccb-3346432cbffd.png)
+
 
 # BOXPLOT
 
