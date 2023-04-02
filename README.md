@@ -89,6 +89,9 @@ sns.histplot(x='Postal Code',data=df)
 
 ![Screenshot 2023-04-02 155708](https://user-images.githubusercontent.com/118708245/229347534-5a9752ff-4321-4baa-adf3-323bb5bd7434.png)
 
+# COUNTPLOT
+
+![Screenshot 2023-04-02 161225](https://user-images.githubusercontent.com/118708245/229348225-814e4175-eb86-45f5-8ff9-9e86f90ac28a.png)
 
 
 
