@@ -77,7 +77,8 @@ sns.histplot(x='Postal Code',data=df)
 
 # DATA DATA TYPES
 
-![Uploading Screenshot 2023-04-02 155246.png…]()
+![Screenshot 2023-04-02 155246](https://user-images.githubusercontent.com/118708245/229415912-03be46f6-55d8-40f4-b363-83bac6714a21.png)
+
 
 
 # DATA VALUE COUNT
@@ -94,4 +95,14 @@ sns.histplot(x='Postal Code',data=df)
 ![Screenshot 2023-04-02 161225](https://user-images.githubusercontent.com/118708245/229348225-814e4175-eb86-45f5-8ff9-9e86f90ac28a.png)
 
 
+# DISTRIBUTION PLOT
 
+![Screenshot 2023-04-03 103433](https://user-images.githubusercontent.com/118708245/229416100-3bff95f6-ed10-4592-a95b-9b0118e94377.png)
+
+# HISTOGRAM PLOT
+
+![Screenshot 2023-04-03 103620](https://user-images.githubusercontent.com/118708245/229416281-3743821c-b702-45a2-9416-82d279b34ac7.png)
+
+# RESULT
+
+Thus we have read the given data and performed the univariate analysis with different types of plots.
